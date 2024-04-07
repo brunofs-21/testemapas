@@ -49,7 +49,7 @@
       "properties": {
         "LAD13CD": "E09000001",
         "LAD13CDO": "00AA",
-        "LAD13NM": "City of London",
+        "Região": "City of London",
         "LAD13NMW": null
       },
       "id": "E09000001"
@@ -208,7 +208,7 @@
       "properties": {
         "LAD13CD": "E09000002",
         "LAD13CDO": "00AB",
-        "LAD13NM": "Barking and Dagenham",
+        "Região": "Barking and Dagenham",
         "LAD13NMW": null
       },
       "id": "E09000002"
@@ -383,7 +383,7 @@
       "properties": {
         "LAD13CD": "E09000003",
         "LAD13CDO": "00AC",
-        "LAD13NM": "Barnet",
+        "Região": "Barnet",
         "LAD13NMW": null
       },
       "id": "E09000003"
@@ -537,7 +537,7 @@
       "properties": {
         "LAD13CD": "E09000004",
         "LAD13CDO": "00AD",
-        "LAD13NM": "Bexley",
+        "Região": "Bexley",
         "LAD13NMW": null
       },
       "id": "E09000004"
@@ -664,7 +664,7 @@
       "properties": {
         "LAD13CD": "E09000005",
         "LAD13CDO": "00AE",
-        "LAD13NM": "Brent",
+        "Região": "Brent",
         "LAD13NMW": null
       },
       "id": "E09000005"
@@ -934,7 +934,7 @@
         "fill": "#FF0000",
         "LAD13CD": "E09000006",
         "LAD13CDO": "00AF",
-        "LAD13NM": "Bromley",
+        "Região": "Bromley",
         "LAD13NMW": null
       },
       "id": "E09000006"
@@ -1035,7 +1035,7 @@
       "properties": {
         "LAD13CD": "E09000007",
         "LAD13CDO": "00AG",
-        "LAD13NM": "Camden",
+        "Região": "Camden",
         "LAD13NMW": null
       },
       "id": "E09000007"
@@ -1254,7 +1254,7 @@
       "properties": {
         "LAD13CD": "E09000008",
         "LAD13CDO": "00AH",
-        "LAD13NM": "Croydon",
+        "Região": "Croydon",
         "LAD13NMW": null
       },
       "id": "E09000008"
@@ -1400,7 +1400,7 @@
       "properties": {
         "LAD13CD": "E09000009",
         "LAD13CDO": "00AJ",
-        "LAD13NM": "Ealing",
+        "Região": "Ealing",
         "LAD13NMW": null
       },
       "id": "E09000009"
@@ -1510,7 +1510,7 @@
       "properties": {
         "LAD13CD": "E09000010",
         "LAD13CDO": "00AK",
-        "LAD13NM": "Enfield",
+        "Região": "Enfield",
         "LAD13NMW": null
       },
       "id": "E09000010"
@@ -1683,7 +1683,7 @@
       "properties": {
         "LAD13CD": "E09000011",
         "LAD13CDO": "00AL",
-        "LAD13NM": "Greenwich",
+        "Região": "Greenwich",
         "LAD13NMW": null
       },
       "id": "E09000011"
@@ -1784,7 +1784,7 @@
       "properties": {
         "LAD13CD": "E09000012",
         "LAD13CDO": "00AM",
-        "LAD13NM": "Hackney",
+        "Região": "Hackney",
         "LAD13NMW": null
       },
       "id": "E09000012"
@@ -1877,7 +1877,7 @@
       "properties": {
         "LAD13CD": "E09000013",
         "LAD13CDO": "00AN",
-        "LAD13NM": "Hammersmith and Fulham",
+        "Região": "Hammersmith and Fulham",
         "LAD13NMW": null
       },
       "id": "E09000013"
@@ -1975,7 +1975,7 @@
       "properties": {
         "LAD13CD": "E09000014",
         "LAD13CDO": "00AP",
-        "LAD13NM": "Haringey",
+        "Região": "Haringey",
         "LAD13NMW": null
       },
       "id": "E09000014"
@@ -2087,7 +2087,7 @@
       "properties": {
         "LAD13CD": "E09000015",
         "LAD13CDO": "00AQ",
-        "LAD13NM": "Harrow",
+        "Região": "Harrow",
         "LAD13NMW": null
       },
       "id": "E09000015"
@@ -2284,7 +2284,7 @@
       "properties": {
         "LAD13CD": "E09000016",
         "LAD13CDO": "00AR",
-        "LAD13NM": "Havering",
+        "Região": "Havering",
         "LAD13NMW": null
       },
       "id": "E09000016"
@@ -2507,7 +2507,7 @@
       "properties": {
         "LAD13CD": "E09000017",
         "LAD13CDO": "00AS",
-        "LAD13NM": "Hillingdon",
+        "Região": "Hillingdon",
         "LAD13NMW": null
       },
       "id": "E09000017"
@@ -2702,7 +2702,7 @@
       "properties": {
         "LAD13CD": "E09000018",
         "LAD13CDO": "00AT",
-        "LAD13NM": "Hounslow",
+        "Região": "Hounslow",
         "LAD13NMW": null
       },
       "id": "E09000018"
@@ -2789,7 +2789,7 @@
       "properties": {
         "LAD13CD": "E09000019",
         "LAD13CDO": "00AU",
-        "LAD13NM": "Islington",
+        "Região": "Islington",
         "LAD13NMW": null
       },
       "id": "E09000019"
@@ -2874,7 +2874,7 @@
       "properties": {
         "LAD13CD": "E09000020",
         "LAD13CDO": "00AW",
-        "LAD13NM": "Kensington and Chelsea",
+        "Região": "Kensington and Chelsea",
         "LAD13NMW": null
       },
       "id": "E09000020"
@@ -3009,7 +3009,7 @@
       "properties": {
         "LAD13CD": "E09000021",
         "LAD13CDO": "00AX",
-        "LAD13NM": "Kingston upon Thames",
+        "Região": "Kingston upon Thames",
         "LAD13NMW": null
       },
       "id": "E09000021"
@@ -3132,7 +3132,7 @@
       "properties": {
         "LAD13CD": "E09000022",
         "LAD13CDO": "00AY",
-        "LAD13NM": "Lambeth",
+        "Região": "Lambeth",
         "LAD13NMW": null
       },
       "id": "E09000022"
@@ -3299,7 +3299,7 @@
       "properties": {
         "LAD13CD": "E09000023",
         "LAD13CDO": "00AZ",
-        "LAD13NM": "Lewisham",
+        "Região": "Lewisham",
         "LAD13NMW": null
       },
       "id": "E09000023"
@@ -3413,7 +3413,7 @@
       "properties": {
         "LAD13CD": "E09000024",
         "LAD13CDO": "00BA",
-        "LAD13NM": "Merton",
+        "Região": "Merton",
         "LAD13NMW": null
       },
       "id": "E09000024"
@@ -3549,7 +3549,7 @@
       "properties": {
         "LAD13CD": "E09000025",
         "LAD13CDO": "00BB",
-        "LAD13NM": "Newham",
+        "Região": "Newham",
         "LAD13NMW": null
       },
       "id": "E09000025"
@@ -3715,7 +3715,7 @@
       "properties": {
         "LAD13CD": "E09000026",
         "LAD13CDO": "00BC",
-        "LAD13NM": "Redbridge",
+        "Região": "Redbridge",
         "LAD13NMW": null
       },
       "id": "E09000026"
@@ -3930,7 +3930,7 @@
       "properties": {
         "LAD13CD": "E09000027",
         "LAD13CDO": "00BD",
-        "LAD13NM": "Richmond upon Thames",
+        "Região": "Richmond upon Thames",
         "LAD13NMW": null
       },
       "id": "E09000027"
@@ -4054,7 +4054,7 @@
       "properties": {
         "LAD13CD": "E09000028",
         "LAD13CDO": "00BE",
-        "LAD13NM": "Southwark",
+        "Região": "Southwark",
         "LAD13NMW": null
       },
       "id": "E09000028"
@@ -4200,7 +4200,7 @@
       "properties": {
         "LAD13CD": "E09000029",
         "LAD13CDO": "00BF",
-        "LAD13NM": "Sutton",
+        "Região": "Sutton",
         "LAD13NMW": null
       },
       "id": "E09000029"
@@ -4328,7 +4328,7 @@
       "properties": {
         "LAD13CD": "E09000030",
         "LAD13CDO": "00BG",
-        "LAD13NM": "Tower Hamlets",
+        "Região": "Tower Hamlets",
         "LAD13NMW": null
       },
       "id": "E09000030"
@@ -4449,7 +4449,7 @@
       "properties": {
         "LAD13CD": "E09000031",
         "LAD13CDO": "00BH",
-        "LAD13NM": "Waltham Forest",
+        "Região": "Waltham Forest",
         "LAD13NMW": null
       },
       "id": "E09000031"
@@ -4574,7 +4574,7 @@
       "properties": {
         "LAD13CD": "E09000032",
         "LAD13CDO": "00BJ",
-        "LAD13NM": "Wandsworth",
+        "Região": "Wandsworth",
         "LAD13NMW": null
       },
       "id": "E09000032"
@@ -4672,7 +4672,7 @@
       "properties": {
         "LAD13CD": "E09000033",
         "LAD13CDO": "00BK",
-        "LAD13NM": "Westminster",
+        "Região": "Westminster",
         "LAD13NMW": null
       },
       "id": "E09000033"
